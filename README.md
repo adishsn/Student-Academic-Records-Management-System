@@ -1,4 +1,4 @@
-# Student Academic Record Management System
+# Student-Academic-Record-Management-System
 
 Description:
 This C program manages student academic records using a singly linked list. It allows inserting, deleting, searching, displaying, reverse displaying, cloning, and calculating the average GPA of students. Each student record contains ID, Name, Department, and GPA.
